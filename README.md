@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a new software developer. It started with the "self-learning" approach. After multiple walls hit, I have decided to join a coding bootcamp called Tech Elevator. Join me on this journey!
+
 <!--
 **VincentRyanArceo/VincentRyanArceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
