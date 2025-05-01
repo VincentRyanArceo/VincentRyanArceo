@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-I’m currently a student at Tech Elevator, where I’m on an exciting journey to become a Java full-stack web developer. With a diverse background in real estate, dental assisting, and bar management, I’m bringing a unique perspective to the world of software development. My goal is to combine my technical education with my professional experiences to build innovative and impactful solutions.
+I’m a former student at Tech Elevator, where I took an exciting journey to become a Java full-stack web developer. With a diverse background in real estate, dental assisting, and bar management, I’m bringing a unique perspective to the world of software development. My goal is to combine my technical education with my professional experiences to build innovative and impactful solutions.
 
-**What I’m Learning**
+**What I Learned**
 
 **Backend Development with Java:** Building scalable and robust systems using object-oriented programming.
 
